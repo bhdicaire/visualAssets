@@ -1,14 +1,16 @@
 ![alt text](https://github.com/bhdicaire/visualAssets/raw/master/Logo/visualAssets.png "Logo")
 
-This repository is used to centralise assets files for my [open source projects](https://Code.BHDicaire.com). Your visual assets should be unique. These are mine. Fork this repository so you can see how each file is structured and it’s content.
+This repository is used to centralise assets files for my [open source projects](https://Code.BHDicaire.com). 
+
+Your visual assets should be unique. These are mine. Fork this repository so you can see how each file is structured and it’s content.
 
 Please make your own assets and do not serve my assets from the Github repository.
 
 ## Getting started with VisualAssets
 The following file types can be found in their corresponding folders:
 * **Colors:** macOS color palette
-* **Components:** [Affinity Designer](https://affinity.serif.com/en-us/designer/desktop/), [Omni Group Omnigraffles](https://www.omnigroup.com/omnigraffle), and PNGs
-* **Fonts:** [IBM Plex](https://github.com/IBM/plex) and [Sukima](https://creativemarket.com/DesignByPlatform/2575932-Sukima-Stencil-%E2%80%93-A-Display-Font)
+* **Components:** [Affinity Designer](https://affinity.serif.com/en-us/designer/desktop/), [Omni Group Omnigraffle](https://www.omnigroup.com/omnigraffle), and PNGs
+* **Fonts:** [IBM Plex](https://github.com/IBM/plex) and ~~[Sukima](https://creativemarket.com/DesignByPlatform/2575932-Sukima-Stencil-%E2%80%93-A-Display-Font)~~
 
 ### Directory Structure
 
@@ -24,7 +26,7 @@ The visualAssets by Benoît H. Dicaire are shared under [CC-BY-SA-4.0](https://g
 
 The IBM Plex font software by IBM Corp is copyright and is [licensed under the SIL Open Font License](https://github.com/IBM/plex/blob/master/LICENSE.txt).
 
-The [Sukima Stenil — A display font](https://www.deviantart.com/graphicassets/art/Sukima-Stencil-A-Display-Font-FREE-DOWNLOAD-752631099) by [Ryan Miglinczy](https://designbyplatform.co.uk) is available for pernsonal use (e.g. Personal Use is defined as using purchased Items in a manner that has no potential monetary gain.) You can [purchase a standard and extended license for commercial work](https://creativemarket.com/DesignByPlatform/2575932-Sukima-Stencil-%E2%80%93-A-Display-Font) with Creative Market.
+The [Sukima Stenil](https://creativemarket.com/DesignByPlatform/2575932-Sukima-Stencil-%E2%80%93-A-Display-Font) by [Ryan Miglinczy](https://designbyplatform.co.uk) is available for personal use (e.g. using purchased Items in a manner that has no potential monetary gain) with [Deviant Art](https://www.deviantart.com/graphicassets/art/Sukima-Stencil-A-Display-Font-FREE-DOWNLOAD-752631099). You can [purchase a standard and extended license for commercial work with [Creative Market](https://creativemarket.com/DesignByPlatform/2575932-Sukima-Stencil-%E2%80%93-A-Display-Font) .
 
 ## Related projects
 * [dnsConfiguration](https://github.com/bhdicaire/dnsConfiguration)
