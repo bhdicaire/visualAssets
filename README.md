@@ -1,5 +1,5 @@
 ![alt text](https://github.com/bhdicaire/visualAssets/raw/main/Logo/visualAssets.png "Logo")
-
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 This repository is used to centralise assets files for my [open source projects](https://github.com/BHDicaire).
 
 Your visual assets should be unique. These are mine. Fork this repository to learn about my process. Please make your own assets and do not serve my assets from the Github repository.
